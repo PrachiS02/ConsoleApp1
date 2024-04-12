@@ -20,7 +20,7 @@ namespace ConsoleApp1
             num2 = temp;
             Console.Write("\nAfter Swapping : ");
             Console.Write("\nFirst Number : " + num1);
-            Console.Write("\nSecond Number : " + num2);
+            Console.Write("Second Number : " + num2);
            
 
         }
